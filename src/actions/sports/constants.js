@@ -1,0 +1,2 @@
+export const FETCH_SPORTS = 'FETCH_SPORTS';
+export const RETRIEVE_SPORTS = 'RETRIEVE_SPORTS';

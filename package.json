@@ -1,0 +1,38 @@
+{
+  "name": "arena-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.16.0",
+    "hellojs": "^1.14.1",
+    "intl": "^1.2.5",
+    "intl-locales-supported": "^1.0.0",
+    "jwt-decode": "^2.2.0",
+    "material-ui": "^0.17.1",
+    "moment": "^2.18.1",
+    "normalize.css": "^6.0.0",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2",
+    "react-grid-system": "^2.7.0",
+    "react-redux": "^5.0.3",
+    "react-router-dom": "^4.1.1",
+    "react-router-redux": "^4.0.8",
+    "react-swipeable-views": "^0.12.1",
+    "react-tap-event-plugin": "^2.0.1",
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {
+    "@kadira/storybook": "^2.21.0",
+    "babel-preset-stage-1": "^6.22.0",
+    "react-scripts": "0.9.5"
+  },
+  "proxy": "http://localhost:8000",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public"
+  }
+}
