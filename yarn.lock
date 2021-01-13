@@ -2887,9 +2887,9 @@ he@1.1.x:
   version "1.1.1"
   resolved "https://registry.yarnpkg.com/he/-/he-1.1.1.tgz#93410fd21b009735151f8868c2f271f3427e23fd"
 
-hellojs@^1.14.1:
-  version "1.14.1"
-  resolved "https://registry.yarnpkg.com/hellojs/-/hellojs-1.14.1.tgz#5f8fc0983d9056ccb6a0c6497666aa36db0fe44b"
+hellojs@^1.18.6:
+  version "1.18.6"
+  resolved "https://registry.yarnpkg.com/hellojs/-/hellojs-1.18.6.tgz#0ff2e356f29ba9c5162518d972513de49f02d540"
 
 history@^4.5.1, history@^4.6.0:
   version "4.6.1"
