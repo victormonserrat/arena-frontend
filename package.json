@@ -9,7 +9,7 @@
     "intl-locales-supported": "^1.0.0",
     "jwt-decode": "^2.2.0",
     "material-ui": "^0.17.1",
-    "moment": "^2.18.1",
+    "moment": "^2.29.4",
     "normalize.css": "^6.0.0",
     "react": "^15.4.2",
     "react-dom": "^15.4.2",
